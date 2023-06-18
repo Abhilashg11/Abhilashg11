@@ -4,4 +4,4 @@ I'm Abhilash.
 
 🌱 I’m currently learning Machine learning and web development.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhilashg11&theme=ambient-gradient)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhilashg11)](https://github.com/anuraghazra/github-readme-stats)
