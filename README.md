@@ -2,6 +2,6 @@
 
 I'm Abhilash.
 
-🌱 I’m currently learning data science and Machine learning.
+🌱 Welcome to my Profile.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhilashg11&theme=ambient-gradient)](https://git.io/streak-stats)
+
